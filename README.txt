@@ -14,3 +14,5 @@ To see this program's requirements document, please navigate to "Test GPWPlus" p
 
 Note: Some known bugs have been purposely left out for the sake of testing this application in another project - see above
 GIT support: GIT support has been added post-production and this project was not created with its use
+
+To setup this Python project in PyCharm IDE, please install pip frameworks specified in Wymagania.txt
